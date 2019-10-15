@@ -1,0 +1,52 @@
+
+/******************************************************************************
+
+                              Online C++ Compiler.
+               Code, Compile, Run and Debug C++ program online.
+Write your code in this editor and press "Run" button to compile and execute it.
+
+*******************************************************************************/
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    char c;
+    int count =0;
+    while(true){
+    cout<<"enter char : ";
+    cin>>c;
+        
+        switch(c){
+            case 'J':
+                count++;
+                break;
+            case 'U':
+                if(count==1)
+                    count++;
+                else
+                count=0;
+                break;
+            case 'M':
+                if(count==2)
+                    count++;
+                else
+                count=0;
+                break;
+            case 'P':
+                if(count==3)
+                    cout<<"Eureka, you entered the code\n";
+                count=0;
+            default:
+            count=0;
+            
+        }
+    
+    
+    }
+    
+
+    return 0;
+}

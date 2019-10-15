@@ -1,0 +1,11 @@
+Inorder (Left, Root, Right) : 
+start from root,first it will check for left here it is 2 now 2 becomes root it checks for left ,left is 4, now 4 dont have left and right so it will print left, prints root 2 and right 5 now done with left so it will print root which is 1, next righ tree we have only 3
+4 2 5 1 3
+
+Preorder (Root, Left, Right) : 
+first it will print root 1 next it will go for left 2,now 2 is root print it, again go for left 4 now 4 is root print it, right 5 , done with right root and left  now right which is 4
+1 2 4 5 3
+Postorder (Left, Right, Root) : 
+starts from left , goes to left,2 it has left so moves 4 as 4 dont have anything print 4, come back to 2, now we are dont at left look right 5 and now print 2, dont with left print right 3 and print root 1
+
+4 5 2 3 1

@@ -1,0 +1,12 @@
+Jan 40.9
+Feb 44.2
+Mar 45.0
+Apr 52.0
+May 60.0
+Jun 52.0
+Jul 53.0
+Aug 44.0
+Sep 43.0
+Oct 42.0
+Nov 41.0
+Dec 41.0

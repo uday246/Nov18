@@ -1,0 +1,77 @@
+<html>
+
+<body>
+
+<ul>
+
+<li>Nissan
+
+<ul>
+
+<li>Cars</li>
+
+<li>Trucks</li>
+
+</ul>
+
+</li>
+
+<li>Toyota
+
+<ol type="a">
+
+<li>Cars
+
+<ol type="I">
+
+<li>Carmy</li>
+
+<li style="color:blue">Corolla</li>
+
+<li>Prius</li>
+
+  
+
+</ol>
+
+</li>
+
+<li>SUVs
+
+<ol type="A">
+
+<li>RAV4</li>
+
+<li>4Runner</li>
+
+<li style="color:red">Land Cruiser</li>
+
+  
+
+</ol>
+
+</li>
+
+  
+
+<li>Truckes
+
+<ul type="circle">
+
+<li>Tacome</li>
+
+<li>Tundra</li>
+
+</ul>
+
+</li>
+
+</ol>
+
+<li style="color:green">Tesla</li>
+
+</ul>
+
+</body>
+
+</html>

@@ -1,0 +1,4 @@
+Jobs 52
+Wozniac 60
+Turing -12
+Gates 58
